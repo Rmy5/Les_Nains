@@ -1,0 +1,85 @@
+body{
+	background-image: url(../images/dwarves.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+select{
+	
+}
+
+fieldset{
+	margin: auto;
+	width: 150px;
+	padding: 10px 20px 15px 20px;
+}
+
+legend{
+	color: white;
+}
+
+#wrap{
+	width: 244px;
+	height: 139px;
+	margin: 300px auto 0;
+	padding: 30px 50px 30px 50px;
+	background-color: rgba(0,0,0,.5);
+}
+
+.selectStyle{
+	margin-top: 5px;
+	border-radius: 5px;
+	background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+ 	height: 29px;
+   	overflow: hidden;
+   	width: 240px;
+   	background-color: rgba(0,0,0,.8);
+}
+
+
+.selectStyle select {
+   	background: transparent;
+  	border: none;
+   	font-size: 14px;
+   	height: 29px;
+   	padding: 5px;
+   	width: 268px;
+   	color: transparent;
+ 
+  text-shadow: 0 0 0 white;
+}
+
+.data{
+	display: inline-block;
+	background-color: rgba(0,0,0,.5);
+	padding: 50px;
+	margin-top: 250px;
+	text-align: left;
+	color: rgba(255,255,255,.7);
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.data a{
+	color: white;
+}
+
+h1{
+	position: absolute;
+	left: 100px;
+	top: 50px;
+	font-size: 40px;
+	font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
